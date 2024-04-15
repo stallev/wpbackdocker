@@ -37,7 +37,7 @@ services:
       MYSQL_USER: $db_user
       MYSQL_PASSWORD: $db_password
       WORDPRESS_TABLE_PREFIX: $db_table_prefix
-      PREV_URL: $production_url
+      PREV_URL: $prev_url
   
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
