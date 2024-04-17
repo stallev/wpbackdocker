@@ -1,4 +1,4 @@
-# 🚀 Run Existing WordPress Site Locally With Docker
+# 🚀 Run Existing WordPress Site With Docker
 
 ## Overview 🌟
 Easily set up a local development environment for your existing WordPress site using Docker. This solution is ideal for developing and testing in an environment that mirrors your live site.
